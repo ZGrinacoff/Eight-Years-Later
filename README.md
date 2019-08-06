@@ -1,6 +1,5 @@
-# The-Triple-Chiquita: A Study of Hate Crimes in 2009 and 2017
-
-* There have been many discussion around the prevelance of hate crimes in the United States, particulary as we head towards the upcoming 2020 Presidential election. As such, this team thought that it would be apropos to examine and analyze the prevelance of such crimes, and which factors, be they political or socioeconomic in nature, have the greatest impact on the total and relative (to population size) numbers of hate crimes across the country.
+# A Study of Hate Crimes in 2009 and 2017: 
+### There have been many discussion around the prevelance of hate crimes in the United States, particulary as we head towards the upcoming 2020 Presidential election. As such, this team thought that it would be apropos to examine and analyze the prevelance of such crimes, and which factors, be they political or socioeconomic in nature, have the greatest impact on the total and relative (to population size) numbers of hate crimes across the country.
 
 ## Hypothesis:
 
