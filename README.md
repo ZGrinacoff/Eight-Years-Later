@@ -1,10 +1,9 @@
-# The-Triple-Chiquita: A Study of Hate Crimes in 2009 and 2017
-
-* There have been many discussion around the prevelance of hate crimes in the United States, particulary as we head towards the upcoming 2020 Presidential election. As such, this team thought that it would be apropos to examine and analyze the prevelance of such crimes, and which factors, be they political or socioeconomic in nature, have the greatest impact on the total and relative (to population size) numbers of hate crimes across the country.
+# A Study of Hate Crimes in 2009 and 2017: 
+### There have been many discussions around the prevelance of hate crimes in the United States, particulary as we head towards the upcoming 2020 Presidential election. As such, this team thought that it would be apropos to examine and analyze the prevelance of such crimes, and which factors, be they political or socioeconomic in nature, have the greatest impact on the total and relative (to population size) numbers of hate crimes across the country.
 
 ## Hypothesis:
 
-* Each team member made a certain hypothesis about hate crimes and how environmental factors could potentially affect outcomes. Each team members hypothesis is documented below.
+* Each team member made a certain hypothesis about hate crimes and how environmental factors could potentially affect outcomes. Each team member's hypothesis is documented below.
 
   * Max: "Intolerance is the first sign of an inadequate education." This quote by Aleksander Solzhenitsyn sums up a general belief about prejudice, that with education these attitudes can be erased. However, is this really the case? Through research, are we able to prove a correlation between people who graduate high school and lack of hate crimes?
 
@@ -20,15 +19,47 @@
     
     * Other than reducing the dataset to include only neccessary data (2009 & 2017), this dataset was well formatted and required minimal cleaning. 
   
-* Zach: In order to 
+* Zach: 
+
+  * US Census API Wrapper ---> https://github.com/datamade/census
+  
+  * Gini Index: Folder (Gini Index CSV) ---> https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_B19083&prodType=table
 
 * Max:
 
+  * Hate Crime Socioeconomic Data: Cleaned hate_crime.csv was merged with US Census Data from API Wrapper in hate_crime.ipynb to create two seperate csv documents for each year of analysis.
+
+    * hate_crime_socioeconomic_2009.csv
+  
+    * hate_crime_socioeconomic_2017.csv
+
+  * US Census API Wrapper ---> https://github.com/datamade/census
+
 * Jackson:
+
+  * Election Data: 1976-2016-president.csv ---> https://electionlab.mit.edu/
+  
+  * US Census API Wrapper ---> https://github.com/datamade/census
+  
+* Presentation Tables (Type: Folder): This folder includes 4 total Excel files that contain the top 5 hate crime count and the top 5 hate crime rates (per 100,000 population) per year (2009 & 2017). These workbooks were utilized as visualizations in the Hate_Crime_Study PowerPoint presentation.
+
+  * max_incidents_2009.xlxs
+  
+  * max_incidents_2017.xlxs
+  
+  * max_rate_2009.xlxs
+  
+  * max_rate_2017.xlxs
 
 ## Code Files:
 
+ * Zach: hate_crime.ipynb
+ 
+ * Max: 
+
 ## Images:
+
+## Summary: 
 
 
 The technical requirements for Project 1 are as follows.
