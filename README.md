@@ -77,31 +77,54 @@
  
    * The Triple Chiquita Flow.pdf
    
- * 
+ * Zach (Folder):
+ 
+   * Hate Crime Rate vs. Per Capita Income - 2009.png
+   
+   * Hate Crime Rate vs. Per Capita Income - 2017.png
+   
+   * Hate Crime Rate vs. Poverty Rate - 2009.png
+   
+   * Hate Crime Rate vs. Poverty Rate - 2017.png
+   
+   * Hate Crime Rate vs. Gini Index - 2009.png
+   
+   * Hate Crime Rate vs. Gini Index - 2017.png
+   
+ * Jackson (Folder):
+ 
+   * DemVotingVsHateCrimeRate.png
+   
+   * DemVotingVsHateCrimeRate09.png
+   
+   * PercHCR2009.png
+   
+   * PercHCR2017.png
+   
+   * Political Change.png
+   
+   * Significant States DF.png
+   
+ * Max (Interactive Visualization Created via Plotly|Chart Studio):
+ 
+   * https://plot.ly/~maximusrex/3
+   
+ * Group Images (Folder):
+ 
+   * Hate_Crime_Count_per_State_2009_2017.png
+   
+   * Hate_Crime_Rate_per_State_2009_2017.png
+   
+   * DC_boxplot_2017.png
 
-## Summary: 
+## Summary:
 
-
-The technical requirements for Project 1 are as follows.
-
-* [ ] Use Pandas to clean and format your data set(s)
-
-* [ ] Create a Jupyter Notebook describing the **data exploration and cleanup** process
-
-* [ ] Create a Jupyter Notebook illustrating the **final data analysis**
-
-* [ ] Use Matplotlib to create a total of 6-8 visualizations of your data (ideally, at least 2 per "question" you ask of your data(per person))
-
-* [ ] Save PNG images of your visualizations to distribute to the class and instructional team, and for inclusion in your presentation
-
-* [ ] Optionally, use at least one API, if you can find an API with data pertinent to your primary research questions
-
-* [ ] Create a write-up summarizing your major findings. This should include a heading for each "question" you asked of your data, and under each heading, a short description of what you found and any relevant plots.
-
-Code Files:
-
-- Zach: hate_crime.ipynb
-
-- Max:
-
-- Jackson: 
+ * Hate_Crime_Study.pptx
+ 
+   * Contains Final Presentation & Major Findings
+   
+     * Broken Down by Each Hypothesis (Individual Analysis)
+   
+   * Limitations of Dataset
+   
+   * Documents Washington D.C. as Major Outlier
