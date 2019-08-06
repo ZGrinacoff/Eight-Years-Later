@@ -51,13 +51,33 @@
   
   * max_rate_2017.xlxs
 
-## Code Files:
+## Code Notebooks:
 
- * Zach: hate_crime.ipynb
+ * Zach: 
  
- * Max: 
+   * hate_crime.ipynb
+ 
+ * Max:
+ 
+   * max code book.ipynb
+ 
+ * Jackson: 
+   
+   * bias_filtering_politics.ipynb
+   
+   * State Politic Change.ipynb
+   
+   * 2008_Election.ipynb
+   
+   * 2016_Election.ipynb
 
 ## Images:
+
+ * Workflow:
+ 
+   * The Triple Chiquita Flow.pdf
+   
+ * 
 
 ## Summary: 
 
