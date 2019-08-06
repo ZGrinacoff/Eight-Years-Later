@@ -19,9 +19,21 @@
     
     * Other than reducing the dataset to include only neccessary data (2009 & 2017), this dataset was well formatted and required minimal cleaning. 
   
-* Zach: In order to 
+* Zach: 
+
+  * US Census API Wrapper ---> https://github.com/datamade/census
+  
+  * Gini Index: Folder (Gini Index CSV) ---> https://factfinder.census.gov/faces/tableservices/jsf/pages/productview.xhtml?pid=ACS_10_1YR_B19083&prodType=table
 
 * Max:
+
+  * Hate Crime Socioeconomic Data: Cleaned hate_crime.csv was merged with US Census Data from API Wrapper in hate_crime.ipynb to create two seperate csv documents for each year of analysis.
+
+    * hate_crime_socioeconomic_2009.csv
+  
+    * hate_crime_socioeconomic_2017.csv
+
+  * US Census API Wrapper ---> https://github.com/datamade/census
 
 * Jackson:
 
