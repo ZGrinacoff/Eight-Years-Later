@@ -1,9 +1,9 @@
 # A Study of Hate Crimes in 2009 and 2017: 
-### There have been many discussion around the prevelance of hate crimes in the United States, particulary as we head towards the upcoming 2020 Presidential election. As such, this team thought that it would be apropos to examine and analyze the prevelance of such crimes, and which factors, be they political or socioeconomic in nature, have the greatest impact on the total and relative (to population size) numbers of hate crimes across the country.
+### There have been many discussions around the prevelance of hate crimes in the United States, particulary as we head towards the upcoming 2020 Presidential election. As such, this team thought that it would be apropos to examine and analyze the prevelance of such crimes, and which factors, be they political or socioeconomic in nature, have the greatest impact on the total and relative (to population size) numbers of hate crimes across the country.
 
 ## Hypothesis:
 
-* Each team member made a certain hypothesis about hate crimes and how environmental factors could potentially affect outcomes. Each team members hypothesis is documented below.
+* Each team member made a certain hypothesis about hate crimes and how environmental factors could potentially affect outcomes. Each team member's hypothesis is documented below.
 
   * Max: "Intolerance is the first sign of an inadequate education." This quote by Aleksander Solzhenitsyn sums up a general belief about prejudice, that with education these attitudes can be erased. However, is this really the case? Through research, are we able to prove a correlation between people who graduate high school and lack of hate crimes?
 
@@ -37,9 +37,29 @@
 
 * Jackson:
 
+  * Election Data: 1976-2016-president.csv ---> https://electionlab.mit.edu/
+  
+  * US Census API Wrapper ---> https://github.com/datamade/census
+  
+* Presentation Tables (Type: Folder): This folder includes 4 total Excel files that contain the top 5 hate crime count and the top 5 hate crime rates (per 100,000 population) per year (2009 & 2017). These workbooks were utilized as visualizations in the Hate_Crime_Study PowerPoint presentation.
+
+  * max_incidents_2009.xlxs
+  
+  * max_incidents_2017.xlxs
+  
+  * max_rate_2009.xlxs
+  
+  * max_rate_2017.xlxs
+
 ## Code Files:
 
+ * Zach: hate_crime.ipynb
+ 
+ * Max: 
+
 ## Images:
+
+## Summary: 
 
 
 The technical requirements for Project 1 are as follows.
